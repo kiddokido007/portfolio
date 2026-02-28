@@ -59,7 +59,7 @@ const Projects = () => {
             title: 'TrustMeBro',
             description: 'Hyper-secure travel platform with dual-channel OTP and panic protocols for maximum passenger safety.',
             tags: ['Security', 'React', 'Firebase'],
-            github: 'https://github.com/kiddokido007'
+            github: 'https://github.com/kiddokido007/TrustMeBro'
         },
         {
             title: 'SheCycle AI',
